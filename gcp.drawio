@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T14:51:19.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="wJ6oWW0sTTiTG2rXZsyL" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T14:52:03.866Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="28X36Xc1jTsDPWzHmoFs" version="18.0.7" type="github">
   <diagram id="zxWllPR4dXDwujv3JQ-D" name="Page-1">
-    <mxGraphModel dx="770" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1848" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Bjpl-F7GeUv3kagEL3ag-99" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;imageAspect=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="110" width="850" height="900" as="geometry" />
+          <mxGeometry x="266" y="110" width="850" height="900" as="geometry" />
         </mxCell>
         <mxCell id="Bjpl-F7GeUv3kagEL3ag-100" value="VPC" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#FFFFFF;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E0F2F1;strokeWidth=5;" parent="Bjpl-F7GeUv3kagEL3ag-99" vertex="1">
           <mxGeometry x="189.32551319648096" y="50.27932960893855" width="648.0938416422288" height="593.2960893854749" as="geometry" />
