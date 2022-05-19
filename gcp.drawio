@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-19T03:36:04.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="KhU2h4S3Jh-cODXInxtC" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-19T03:36:14.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="90rSYbwQdq360GB_eJLL" version="18.0.7" type="github">
   <diagram id="zxWllPR4dXDwujv3JQ-D" name="Page-1">
-    <mxGraphModel dx="1155" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3696" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -193,25 +193,6 @@
             <mxPoint x="290" y="420" as="sourcePoint" />
             <mxPoint x="-521.7272727272727" y="426.6905027932961" as="targetPoint" />
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FHoGTet334i-_2wl_b7a-4" value="&lt;b&gt;Google &lt;/b&gt;Cloud Platform" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1640" y="134" width="650" height="546" as="geometry" />
-        </mxCell>
-        <mxCell id="FHoGTet334i-_2wl_b7a-5" value="" style="shape=mxgraph.gcp2.google_cloud_platform;fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;" vertex="1" parent="FHoGTet334i-_2wl_b7a-4">
-          <mxGeometry width="23" height="20" relative="1" as="geometry">
-            <mxPoint x="20" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FHoGTet334i-_2wl_b7a-11" value="User" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[1,1,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#b85450;shadow=0;dashed=0;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="357.17" width="130" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="FHoGTet334i-_2wl_b7a-12" value="Desktop and Mobile" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=bottom;spacingLeft=0;fontColor=#999999;fontSize=12;whiteSpace=wrap;spacingBottom=2;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="391.17" width="107.5" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="FHoGTet334i-_2wl_b7a-13" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.desktop_and_mobile;part=1;" vertex="1" parent="FHoGTet334i-_2wl_b7a-12">
-          <mxGeometry x="0.5" width="50" height="33" relative="1" as="geometry">
-            <mxPoint x="-25" y="18.5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
